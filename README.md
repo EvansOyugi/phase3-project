@@ -132,3 +132,14 @@ The accuracy of the model is 0.8229, which means that the model correctly predic
 This tuned model has better performance metrics and hence a good model.
 
 ## 6.Conclusion and Recommendations
+### Conclusion
+The model could be further enhanced by incorporating additional data, particularly for the "functional needs repair" class, to address class imbalance issues.
+
+### Recommendations
+1.The Tanzania Ministry of Water should invest in better waterpoint types such communal standpipes and hand pumps
+
+2.The Tanzania Ministry of Water should ensure that the extraction type for the wells is mostly through gravity and handpump
+
+3.The Tanzania Ministry of Water should ensure that the gps height(altitude of the well) for most water points is high enough
+
+4.The Tanzania Ministry of Water should also ensure that the people using the waterpoints pay either monthly, annually or per bucket to ensure that the wells are well maintained
