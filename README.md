@@ -117,7 +117,7 @@ Handling Class Imbalance
 Uniformity - Handling Missing Values
 
 ## 4.Modeling
-The Random Forest Classifier model has an accuracy of 0.8126 and an F1 score of 0.8059
+The Random Forest Classifier model has an accuracy of 0.8168 and an F1 score of 0.8097
 
 In terms of accuracy, the random forest classifier has a higher accuracy score of 0.81 compared to the other 2 models, which had accuracy scores of  0.75 (decision tree), and 0.65 (logistic regression).
 
@@ -127,7 +127,7 @@ Based on these results, the random forest classifier appears to be performing th
 
 Hyperparameter tuning and cross-validation is performed because they help to optimize the model performance and prevent overfitting or underfitting. The randomized search cross-validation helps to perform an efficient search for the optimal hyperparameters and cross-validate the model, which leads to better model performance and robustness.
 
-The accuracy of the model is 0.8229, which means that the model correctly predicted the class label of 82.29% of the test data instances. The F1 score is 0.8150. A higher F1 score indicates a better performance of the model.
+The accuracy of the model is 0.8229, which means that the model correctly predicted the class label of 81.68% of the test data instances. The F1 score is 0.8097. A higher F1 score indicates a better performance of the model.
 
 This tuned model has better performance metrics and hence a good model.
 
